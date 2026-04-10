@@ -13,6 +13,32 @@ Knit is an iOS knitting companion app with per-project row and repeat counters, 
 - PDF pen and highlighter tools
 - Lock screen Live Activity counter
 
+## Screenshots
+
+### Project List
+
+<img src="docs/screenshots/project-list.png" alt="Project list screen" width="260">
+
+Create and manage multiple knitting projects from one place. Each project has its own counter, notes, statistics, and pattern viewer.
+
+### Counter, Notes, and Stats
+
+<img src="docs/screenshots/project-counter.png" alt="Project counter, notes, and statistics screen" width="260">
+
+Track rows or repeats, keep project-specific notes, and track your day-to-day progress.
+
+### PDF Pattern Viewer
+
+<img src="docs/screenshots/pattern-viewer.png" alt="PDF pattern viewer with annotation tools" width="260">
+
+Import a pattern PDF to track while knitting. The viewer supports drawing and highlighting.
+
+### Lock Screen Live Activity
+
+<img src="docs/screenshots/live-activity.png" alt="Lock screen Live Activity counter" width="260">
+
+Start a project counter from the app and control rows or repeats directly from the Lock Screen with a Live Activity.
+
 ## Requirements
 
 I plan to make this easier in the future, but while the app is in active
@@ -70,3 +96,4 @@ For the app target:
 This project is licensed under the MIT License
 
 See the `LICENSE` file for details
+
